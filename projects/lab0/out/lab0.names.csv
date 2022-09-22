@@ -1,0 +1,178 @@
+projects/lab0/out/lab0.elf:10000038 00000004 b contador.10490
+projects/lab0/out/lab0.elf:1a00069c 00000044 t Board_LED_Init
+projects/lab0/out/lab0.elf:1a0006e0 00000040 t Board_TEC_Init
+projects/lab0/out/lab0.elf:1a000720 00000040 t Board_GPIO_Init
+projects/lab0/out/lab0.elf:1a000760 00000030 t Board_ADC_Init
+projects/lab0/out/lab0.elf:1a000790 00000038 t Board_SPI_Init
+projects/lab0/out/lab0.elf:1a0007c8 00000024 t Board_I2C_Init
+projects/lab0/out/lab0.elf:1a00178c 00000008 t GpioButtons
+projects/lab0/out/lab0.elf:1a001794 0000000c t GpioLeds
+projects/lab0/out/lab0.elf:1a0017a0 00000012 t GpioPorts
+projects/lab0/out/lab0.elf:1a0017b8 00000004 t InitClkStates
+projects/lab0/out/lab0.elf:1a0017bc 00000074 t pinmuxing
+projects/lab0/out/lab0.elf:1a0008f4 0000002c t Chip_UART_GetIndex
+projects/lab0/out/lab0.elf:1a001830 00000008 t UART_BClock
+projects/lab0/out/lab0.elf:1a001838 00000008 t UART_PClock
+projects/lab0/out/lab0.elf:1a000a5c 00000014 t Chip_ADC_GetClockIndex
+projects/lab0/out/lab0.elf:1a000a70 00000032 t getClkDiv
+projects/lab0/out/lab0.elf:1a000b24 000000a0 t pll_calc_divs
+projects/lab0/out/lab0.elf:1a000bc4 0000010c t pll_get_frac
+projects/lab0/out/lab0.elf:1a000cd0 0000004c t Chip_Clock_FindBaseClock
+projects/lab0/out/lab0.elf:1a000f44 00000022 t Chip_Clock_GetDivRate
+projects/lab0/out/lab0.elf:1000003c 00000008 b audio_usb_pll_freq
+projects/lab0/out/lab0.elf:1a00184c 0000006c t periph_to_base
+projects/lab0/out/lab0.elf:1a0018b8 00000048 t InitClkStates
+projects/lab0/out/lab0.elf:1a00121c 00000014 t Chip_SSP_GetClockIndex
+projects/lab0/out/lab0.elf:1a001230 00000018 t Chip_SSP_GetPeriphClockIndex
+projects/lab0/out/lab0.elf:10000000 00000038 d i2c
+projects/lab0/out/lab0.elf:1a001904 t __init_array_end
+projects/lab0/out/lab0.elf:1a001900 b __preinit_array_end
+projects/lab0/out/lab0.elf:1a001900 t __init_array_start
+projects/lab0/out/lab0.elf:1a001900 b __preinit_array_start
+projects/lab0/out/lab0.elf:1a000d68 0000001c T Chip_Clock_GetDividerSource
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+projects/lab0/out/lab0.elf:1a000184 00000002 W DebugMon_Handler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W RIT_IRQHandler
+projects/lab0/out/lab0.elf:1a080000 A __top_MFlashA512
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+projects/lab0/out/lab0.elf:1a000114 T __section_table_start
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W I2C0_IRQHandler
+projects/lab0/out/lab0.elf:1a00083c 00000008 T __stdio_init
+projects/lab0/out/lab0.elf:1a00017a 00000002 W HardFault_Handler
+projects/lab0/out/lab0.elf:1a000000 A __vectors_start__
+projects/lab0/out/lab0.elf:1a000b16 0000000c T Chip_ADC_SetResolution
+projects/lab0/out/lab0.elf:1a0003e0 00000054 T SysTick_Handler
+projects/lab0/out/lab0.elf:1a000478 00000002 W initialise_monitor_handles
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SDIO_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+projects/lab0/out/lab0.elf:1a000186 00000002 W PendSV_Handler
+projects/lab0/out/lab0.elf:1a000178 00000002 W NMI_Handler
+projects/lab0/out/lab0.elf:1a00190c R __exidx_end
+projects/lab0/out/lab0.elf:1a000150 T __data_section_table_end
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W I2C1_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W UART1_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W CAN1_IRQHandler
+projects/lab0/out/lab0.elf:53ff7412 A __valid_user_code_checksum
+projects/lab0/out/lab0.elf:1a00190c R _etext
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W USB1_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W I2S0_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+projects/lab0/out/lab0.elf:1a000fe6 0000000c T Chip_Clock_GetBaseClocktHz
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W UART0_IRQHandler
+projects/lab0/out/lab0.elf:1a0001a8 00000012 T bss_init
+projects/lab0/out/lab0.elf:1a0005f8 00000078 T Led_Toggle
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+projects/lab0/out/lab0.elf:1a00138c T __aeabi_uldivmod
+projects/lab0/out/lab0.elf:10000048 ? _noinit
+projects/lab0/out/lab0.elf:10000044 00000004 B SystemCoreClock
+projects/lab0/out/lab0.elf:1a000920 00000054 T Chip_UART_Init
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W ADC0_IRQHandler
+projects/lab0/out/lab0.elf:1a000180 00000002 W UsageFault_Handler
+projects/lab0/out/lab0.elf:1a001064 0000004c T Chip_Clock_GetRate
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+projects/lab0/out/lab0.elf:1a00087c 0000006c T Board_SetupClocking
+projects/lab0/out/lab0.elf:20008000 A __top_RamAHB32
+projects/lab0/out/lab0.elf:1a0013bc 000002dc T __udivmoddi4
+projects/lab0/out/lab0.elf:1a001788 00000004 T ExtRateIn
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W IntDefaultHandler
+projects/lab0/out/lab0.elf:1a000300 T __CRP_WORD_END__
+projects/lab0/out/lab0.elf:1a000580 00000078 T Led_Off
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+projects/lab0/out/lab0.elf:1a00034c 00000094 T ConfigurarPuertosLaboratorio
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SSP0_IRQHandler
+projects/lab0/out/lab0.elf:1a001904 R __exidx_start
+projects/lab0/out/lab0.elf:1a0002fc 00000004 T CRP_WORD
+projects/lab0/out/lab0.elf:1a00169c 00000050 T __libc_init_array
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W ADC1_IRQHandler
+projects/lab0/out/lab0.elf:1a000810 0000002c T Board_Init
+projects/lab0/out/lab0.elf:1a000506 00000002 W _init
+projects/lab0/out/lab0.elf:1a000508 00000078 T Led_On
+projects/lab0/out/lab0.elf:1a000114 T __data_section_table
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W RTC_IRQHandler
+projects/lab0/out/lab0.elf:10000048 B _ebss
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+projects/lab0/out/lab0.elf:1a00047c 00000088 T Reset_Handler
+projects/lab0/out/lab0.elf:20010000 A __top_RamAHB_ETB16
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SPI_IRQHandler
+projects/lab0/out/lab0.elf:1a001314 00000038 T Chip_I2C_SetClockRate
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W LCD_IRQHandler
+projects/lab0/out/lab0.elf:1a000d1c 0000004c T Chip_Clock_EnableCrystal
+projects/lab0/out/lab0.elf:10008000 A __top_RamLoc32
+projects/lab0/out/lab0.elf:1a00018a 0000001e T data_init
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+projects/lab0/out/lab0.elf:1a0012f0 00000024 T Chip_I2C_Init
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W UART2_IRQHandler
+projects/lab0/out/lab0.elf:1a000ed8 0000006c T Chip_Clock_GetMainPLLHz
+projects/lab0/out/lab0.elf:1a001248 00000012 T Chip_SSP_SetClockRate
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+projects/lab0/out/lab0.elf:1a000fc0 00000026 T Chip_Clock_GetBaseClock
+projects/lab0/out/lab0.elf:10000038 B _bss
+projects/lab0/out/lab0.elf:1a000ae4 00000032 T Chip_ADC_SetSampleRate
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W I2S1_IRQHandler
+projects/lab0/out/lab0.elf:1a00125a 0000003e T Chip_SSP_SetBitRate
+projects/lab0/out/lab0.elf:1a001218 00000002 T Chip_GPIO_Init
+projects/lab0/out/lab0.elf:1a0017b4 00000004 T OscRateIn
+projects/lab0/out/lab0.elf:10000048 ? _end_noinit
+projects/lab0/out/lab0.elf:10008000 A _vStackTop
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SSP1_IRQHandler
+projects/lab0/out/lab0.elf:1a000178 T __bss_section_table_end
+projects/lab0/out/lab0.elf:1a001698 00000002 W __aeabi_ldiv0
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W USB0_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SCT_IRQHandler
+projects/lab0/out/lab0.elf:1a000300 0000004c T ConfigurarInterrupcion
+projects/lab0/out/lab0.elf:1a000d84 0000001c T Chip_Clock_GetDividerDivisor
+projects/lab0/out/lab0.elf:1a0002fc T __CRP_WORD_START__
+projects/lab0/out/lab0.elf:1a0016ec 0000009a T memset
+projects/lab0/out/lab0.elf:1a00017c 00000002 W MemManage_Handler
+projects/lab0/out/lab0.elf:1a000434 00000044 T main
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W WDT_IRQHandler
+projects/lab0/out/lab0.elf:2000c000 A __top_RamAHB16
+projects/lab0/out/lab0.elf:1008a000 A __top_RamLoc40
+projects/lab0/out/lab0.elf:1a000182 00000002 W SVC_Handler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+projects/lab0/out/lab0.elf:1a000ff4 0000003c T Chip_Clock_EnableOpts
+projects/lab0/out/lab0.elf:1a000da0 000000b8 T Chip_Clock_GetClockInputHz
+projects/lab0/out/lab0.elf:1a000e58 00000080 T Chip_Clock_CalcMainPLLValue
+projects/lab0/out/lab0.elf:1a00134c 00000040 T SystemInit
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W QEI_IRQHandler
+projects/lab0/out/lab0.elf:1a000150 T __bss_section_table
+projects/lab0/out/lab0.elf:1a000504 00000002 W _fini
+projects/lab0/out/lab0.elf:1a000aa4 00000040 T Chip_ADC_Init
+projects/lab0/out/lab0.elf:1a000844 00000038 T Board_SetupMuxing
+projects/lab0/out/lab0.elf:1a000974 000000e8 T Chip_UART_SetBaudFDR
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W ETH_IRQHandler
+projects/lab0/out/lab0.elf:10000000 ? _end_uninit_RESERVED
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W CAN0_IRQHandler
+projects/lab0/out/lab0.elf:10000000 D _data
+projects/lab0/out/lab0.elf:10000048 B _pvHeapStart
+projects/lab0/out/lab0.elf:1a000178 T __section_table_end
+projects/lab0/out/lab0.elf:1a001298 00000038 T Chip_SSP_Init
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GINT0_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W DAC_IRQHandler
+projects/lab0/out/lab0.elf:1a0007ec 00000024 T Board_Debug_Init
+projects/lab0/out/lab0.elf:10000038 D _edata
+projects/lab0/out/lab0.elf:1a0012d0 00000020 T Chip_I2C_EventHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+projects/lab0/out/lab0.elf:1a0010c4 00000154 T Chip_SetupCoreClock
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+projects/lab0/out/lab0.elf:1a000000 00000040 T g_pfnVectors
+projects/lab0/out/lab0.elf:1a0010b0 00000014 T SystemCoreClockUpdate
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W DMA_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W EVRT_IRQHandler
+projects/lab0/out/lab0.elf:1b080000 A __top_MFlashB512
+projects/lab0/out/lab0.elf:1a001698 00000002 W __aeabi_idiv0
+projects/lab0/out/lab0.elf:1a00017e 00000002 W BusFault_Handler
+projects/lab0/out/lab0.elf:1a001030 00000034 T Chip_Clock_Enable
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W UART3_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W M0APP_IRQHandler
+projects/lab0/out/lab0.elf:1a000040 000000d4 T g_pfnVendorVectors
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GINT1_IRQHandler
+projects/lab0/out/lab0.elf:1a000670 0000002c T Read_Switches
+projects/lab0/out/lab0.elf:1a000f68 00000058 T Chip_Clock_SetBaseClock
+projects/lab0/out/lab0.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+projects/lab0/out/lab0.elf:1a0008e8 0000000c T Board_SystemInit

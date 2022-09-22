@@ -1,0 +1,4 @@
+---
+- "/home/estudiante/proyectos/embebidos/embebidos.entorno/vendor/ceedling/vendor/unity/src/unity.h"
+- digitales.h
+- build/temp/_test_digitales.c

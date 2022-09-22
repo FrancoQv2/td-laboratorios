@@ -1,0 +1,17 @@
+---
+:source:
+  :path: projects/punku/test
+  :file: test_puerta.c
+:successes:
+- :test: test_puerta_forzada
+  :line: 24
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 1
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.008956999983638525
